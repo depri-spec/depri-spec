@@ -12,3 +12,4 @@ $ cd Crack
 $ ls
 $ git pull
 $ python3 MULTI_BF.py
+$ python3 Crack.py
